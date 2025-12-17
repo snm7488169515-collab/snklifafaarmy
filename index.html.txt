@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SNK Lifafa Army</title>
+  <style>
+    body { font-family: Arial; text-align: center; padding-top: 80px; }
+    a { display: block; margin: 15px; font-size: 20px; text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<h1>🎁 SNK Lifafa Army</h1>
+<p>Choose your panel</p>
+
+<a href="/public/user">👤 User Panel</a>
+<a href="/public/creator">🎨 Creator Panel</a>
+<a href="/public/admin">🛠 Admin Panel</a>
+
+</body>
+</html>
